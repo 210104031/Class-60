@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: linear-gradient(green, lime, yellow, White);
+}
+.gameimg:hover {
+    transform: scale(1.1);
+}
+.gameimg {
+    transition: transform .2s;
+}
+.line {
+    width: 200px;
+    height: 8px;
+    margin:auto ;
+    background-color: brown;
+}
